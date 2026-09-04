@@ -1,28 +1,20 @@
-# Fedor Krylov
+# Hey, I'm Fedor 👋
 
-**AI Automation · Telegram Bots · API Integrations**
+I build useful products and automations with **AI, Telegram and APIs**.
 
-I build practical automation and AI-powered products, with a focus on working systems rather than demo projects.
+I came into tech from running an online marketplace business, so I naturally care less about technology for technology’s sake and more about whether something actually solves a problem, saves time or helps a product move forward.
 
-## What I work with
+I like taking a messy process, figuring out what really matters, and turning it into something simple that works.
 
-- n8n workflows and business automation
-- REST APIs, webhooks and service integrations
-- Telegram bots and Telegram-first products
-- AI-assisted product prototyping and implementation
-- PostgreSQL / SQL
-- Git and GitHub
+### What I'm building now
 
-## Current projects
+- **CINTO** — a Telegram-first product that helps people decide what to watch without endless scrolling.
+- **Frazio** — a Telegram-first language learning product designed to make the first steps in a new language feel simple and natural.
 
-**CINTO** — a Telegram-first movie decision product that helps users decide what to watch, one recommendation at a time.
+### What I work with
 
-**Frazio** — a Telegram-first language learning product focused on simple, guided learning for beginners.
+`n8n` · `REST APIs` · `Webhooks` · `Telegram Bots` · `PostgreSQL` · `SQL` · `Git` · `GitHub` · `AI-assisted development`
 
-## How I work
+I work **AI-native**: I use AI heavily for research, implementation, debugging and review, while staying responsible for the product logic, integrations, testing and the final result.
 
-I use AI tools as part of the engineering workflow for research, architecture, implementation, debugging and review. I focus on understanding the product problem, testing real integrations and shipping maintainable systems.
-
-## Open to
-
-Remote AI Automation / Integration roles and freelance projects.
+I'm currently open to **remote AI Automation / Integration work** and practical freelance projects.
